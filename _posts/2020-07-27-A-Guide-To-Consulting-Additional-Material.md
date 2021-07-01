@@ -2,12 +2,12 @@
 layout: post
 title:  "Additional Course Material, are you using the right thing?"
 summary: "A guide to consulting additional material for a university course"
-author: johndoe
+author: lindelani
 date: '2020-07-27 14:35:23 +0530'
 category: school
-thumbnail: /assets/img/posts/books.jpg
+thumbnail: /assets/img/posts/books.jpeg
 keywords: course, university, youtube
-permalink: /blog/welcome-to-devlopr-jekyll/
+permalink: /blog/additional-course-material/
 usemathjax: true
 ---
 
