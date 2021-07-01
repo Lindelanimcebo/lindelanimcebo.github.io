@@ -34,26 +34,26 @@ typewrite-text: Hi, my name is Lindelani Mbatha. Navigate through this site to k
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: Polymorph Systems
+              company_logo: polymorph.png
+              company_url: https://polymorph.co.za
+              designation: Intern Software Engineer
+              description: Worked on IOT Projects
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: Univeristy of Cape Town
+              company_logo: uct.png
+              company_url: https://uct.ac.za
+              designation: Tutor
+              description: Tutored Various Courses from the Electrical Engineering & Computer Science Departments
               visibility: true
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: uct.png
+                college_name: University of Cape Town
+                college_url: https://uct.ac.za
+                college_degree: Electrical & Computer Engineering
+                description: Bachelor of Science in Engineering
                 visibility: true
 
 # Projects
