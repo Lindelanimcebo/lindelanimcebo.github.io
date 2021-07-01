@@ -58,15 +58,15 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail: picam.jpg
+                project_title: picam iot
+                project_description: An api for automated motion detection using the raspberry pi cam.
+                project_url: https://github.com/Lindelanimcebo/picam_iot
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail: prng.png
+                project_title: Parallel Random Number Generator
+                project_description: A hardware accelerated random number generator using the LUT-SR algorithm and implemented on the Nexy A7 FPGA
+                project_url: https://github.com/Stelele/EEE4120F-YODA
                 visibility: true
 
 # social links
