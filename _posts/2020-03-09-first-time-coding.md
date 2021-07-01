@@ -4,7 +4,7 @@ title:  "First time coding nightmares [for beginner programmers like me]"
 summary: "Some advices to people who have just gotten into the world of programming without any prior knowledge"
 author: lindelani
 date: '2020-03-09 1:35:23 +0530'
-category: jekyll
+category: code
 thumbnail: /assets/img/posts/code.jpg
 keywords: code, python
 usemathjax: true
