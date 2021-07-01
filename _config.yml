@@ -93,7 +93,7 @@ formspree_email: f/mbjqkaow
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: devlopr
-olvy_widget_type: embed
+olvy_widget_type: sidebar
 
 # syntax highlighter
 markdown: kramdown
