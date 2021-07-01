@@ -5,7 +5,7 @@ summary: "Some advices to people who have just gotten into the world of programm
 author: lindelani
 date: '2020-03-09 1:35:23 +0530'
 category: code
-thumbnail: /assets/img/posts/code.jpg
+thumbnail: /assets/img/posts/code.jpeg
 keywords: code, python
 usemathjax: true
 permalink: /blog/first-time-coding/
