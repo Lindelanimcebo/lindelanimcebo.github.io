@@ -1,30 +1,30 @@
 # Add Authors here
-johndoe:
-   name: John Doe
-   username: johndoe
-   site: http://johndoe.com
+lindelani:
+   name: Lindelani Mbatha
+   username: lindelanimcebo
+   site: http://lindelanimcebo.github.io
    avatar: johndoe.png
-   bio: "Hi I a John, a Web Developer and Designer."
-   email: mail@johndoe.com
+   bio: "Hi I a Lindelani, an Electrical & Computer Engineering Student and aspiring Developer."
+   email: lindelanimcebo@gmail.com
    social:
       - title: "github"
-        url: "https://github.com/johndoe"
+        url: "https://github.com/lindelanimcebo"
       - title: "linkedin"
-        url: "https://www.linkedin.com/in/johndoe"
+        url: "https://www.linkedin.com/in/Lindelani-Mbatha"
       - title: "youtube"
         url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
       - title: "facebook"
-        url: "https://www.facebook.com/johndoe"
+        url: "https://www.facebook.com/lindelanimcebo"
       - title: "twitter"
-        url: "https://www.twitter.com/johndoe"
+        url: "https://www.twitter.com/lindelanimcebo"
       - title: "behance"
         url: "https://behance.com/johndoe"
       - title: "instagram"
-        url: "https://instagram.com/johndoe"
+        url: "https://instagram.com/lindelanimcebo"
       - title: "medium"
         url: "https://medium.com/johndoe"
       - title: "telegram"
-        url: "https://telegram.com/johndoe"
+        url: "https://telegram.com/lindelanimcebo"
       - title: "dribbble"
         url: "https://dribbble.com/johndoe"
       - title: "flickr"
