@@ -1,0 +1,1 @@
+jumbotron bg image : 'https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260'
