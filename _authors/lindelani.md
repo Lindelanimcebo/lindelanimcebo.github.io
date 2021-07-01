@@ -13,7 +13,7 @@ social:
     - title: "youtube"
       url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
     - title: "facebook"
-      url: "https://www.facebook.com/lindelanimcebo"
+      url: "https://www.facebook.com/lindelanimpumelelomcebombatha"
     - title: "twitter"
       url: "https://www.twitter.com/lindelanimcebo"
     - title: "instagram"
