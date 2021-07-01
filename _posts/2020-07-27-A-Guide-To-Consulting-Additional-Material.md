@@ -7,7 +7,7 @@ date: '2020-07-27 14:35:23 +0530'
 category: school
 thumbnail: /assets/img/posts/books.jpeg
 keywords: course, university, youtube
-permalink: /blog/additional-course-material/
+permalink: /blog/welcome-to-devlopr-jekyll/
 usemathjax: true
 ---
 
