@@ -1,0 +1,5 @@
+jumbotron bg image : 'https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260'
+
+some dude : https://images.pexels.com/photos/1114690/pexels-photo-1114690.jpeg?cs=srgb&dl=pexels-philippe-donn-1114690.jpg&fm=jpg
+
+some other: https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg?cs=srgb&dl=pexels-johannes-plenio-1103970.jpg&fm=jpg
